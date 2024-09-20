@@ -47,7 +47,7 @@
 - 약 8000개의 데이터 수집
 
 2. 데이터 가공
-- content을 중심으로 분석
+- content를 중심으로 분석
 
 <img src="./gwangingu_images/광진구데이터그림.png" width="800" height="400"/>
   
