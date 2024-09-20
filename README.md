@@ -1,8 +1,10 @@
 # 언어 모델을 활용한 전통시장 문제점 분석
 
-<img src="./gwangingu_images/광진구청 로고.png" width="400" height="200"/>
+## 2024 광진구 빅데이터 분석 공모전
 
-2024 광진구 빅데이터 분석 공모전
+<img src="./gwangingu_images/광진구청 로고.png" width="200" height="100"/>
+
+
 
 ----------------------
 
