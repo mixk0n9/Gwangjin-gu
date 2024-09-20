@@ -46,7 +46,8 @@
 
 2. 데이터 가공
 - content을 중심으로 분석
-그림
+
+<img src="./gwangingu_images/광진구데이터그림.png" width="500" height="200"/>
   
 3. 분석
 
