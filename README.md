@@ -54,4 +54,5 @@
 3. 분석
 
 <img src="./gwangingu_images/[광진구푸바오]결과보고서_6.png" width="800" height="400"/>
-<img src="./gwangingu_images/[광진구푸바오]결과보고서_6.png" width="800" height="400"/>
+![image.jpg1]<img src="./gwangingu_images/[광진구푸바오]결과보고서_6.png" width="800" height="400"/> |![image.jpg2]<img src="./gwangingu_images/[광진구푸바오]결과보고서_6.png" width="800" height="400"/>
+--- | --- | 
